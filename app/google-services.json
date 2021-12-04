@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041328586077",
+    "firebase_url": "https://automaticlife-2fe20-default-rtdb.firebaseio.com",
+    "project_id": "automaticlife-2fe20",
+    "storage_bucket": "automaticlife-2fe20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041328586077:android:180844fdbb67ee7da47cb4",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041328586077-9ua4qfck4gklqe6cqsj5u6jk32vdrl3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZBo-1e8wGHFc6LuX5pQ3CGgJXhOzK1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041328586077-9ua4qfck4gklqe6cqsj5u6jk32vdrl3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
